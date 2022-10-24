@@ -34,7 +34,9 @@ the repository becomes:
         - ...
     - `split_train_test_val`
     - `trained_models_error_prediction`
-- `scripts` 2. Install the required Python packages listed in `env-uwb.yml`.
+- `scripts` 
+
+2. Install the required Python packages listed in `env-uwb.yml`.
   
 On a system where Anaconda is installed, run: 
 ``` 
