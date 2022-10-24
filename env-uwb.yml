@@ -1,0 +1,16 @@
+dependencies:
+- python=3.9.*
+- pip=21.2.*
+- jupyter=1.0.*
+- matplotlib=3.5.*
+- scipy=1.7.*
+- numpy=1.22.*
+- pandas=1.4.*
+- scikit-learn=1.0.*
+- statsmodels=0.13.*
+- pytorch=1.10.*
+- pip:
+  - torchinfo
+  - joblib
+  - smogn
+  - torchsummary
